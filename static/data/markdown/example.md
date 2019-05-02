@@ -21,4 +21,4 @@
 
 ![cmd-markdown-logo](https://www.zybuluo.com/static/img/logo.png)
 
-![本地图片](../../resources/imgs/slt4.png)
+![本地图片](static/resources/imgs/slt4.png)
