@@ -3,6 +3,7 @@
     "current": 1,
     "size": 15,
     "total": 20,
+    "totalPage": 2,
     "records": [{
         "id":"example",
         "title": "标题",
